@@ -1,0 +1,8 @@
+title: Portafolio
+description: Aqui poco a poco se encontrará parte de el trabajo y colaboración que he realizado en varios proyectos a lo largo de mi existencia en sistemas. No esta todo, pero poco a poco iré subiendo cosas para compartirlas con la comunidad.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
